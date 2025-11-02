@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Features from "./components/Features";
+import CanvasPlayground from "./components/CanvasPlayground";
 import Footer from "./components/Footer";
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
 
       <main>
         <Hero />
-        <Features />
+        <CanvasPlayground />
       </main>
 
       <Footer />

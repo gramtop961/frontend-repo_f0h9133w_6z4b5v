@@ -39,7 +39,7 @@ export default function Hero() {
           </div>
 
           <div className="relative h-[420px] sm:h-[500px] lg:h-[640px] rounded-2xl overflow-hidden shadow-2xl ring-1 ring-neutral-200/60 dark:ring-neutral-800/60">
-            <Spline scene="https://prod.spline.design/VJLoxp84lCdVfdZu/scene.splinecode" style={{ width: "100%", height: "100%" }} />
+            <Spline scene="https://prod.spline.design/UngO8SNLfLcyPG7O/scene.splinecode" style={{ width: "100%", height: "100%" }} />
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-white via-white/10 to-transparent dark:from-neutral-950 dark:via-neutral-950/10" aria-hidden="true" />
           </div>
         </div>
